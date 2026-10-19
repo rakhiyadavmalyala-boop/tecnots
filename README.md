@@ -126,11 +126,4 @@ python -m evals.model_comparison
 ├── requirements.txt           # Python dependencies
 └── .env.example               # Environment template
 ```
-
-## Configuration
-
-Copy `.env.example` to `.env` and set:
-- `ANTHROPIC_API_KEY` — your Claude API key
-- `HELP_CENTER_URL` — the help center URL to crawl
-
 The system works in stub mode without an API key (returns placeholder responses).
