@@ -1,0 +1,18 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Data
+task1_knowledge_brain/data/
+task2_inbox_agent/data/
+task3_meeting_scope/data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
